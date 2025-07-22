@@ -3,3 +3,5 @@ main
 
 # But don't ignore the source file
 !main.rs
+
+target
